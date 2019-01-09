@@ -1,0 +1,18 @@
+_______________________________
+Instructions for the Sudoku Solver.
+_______________________________
+
+The program reads the puzzle.txt file and outputs a solved puzzle to solution.txt
+Edit the puzzle.txt file to change the puzzle the program solves.
+The format is 9 rows with 9 numbers in each, separated by spaces. 0 represents blank spaces in the puzzle.
+The following is an example:
+
+0 7 0 4 0 2 9 0 0 
+0 0 9 0 5 0 0 0 2 
+0 0 0 0 0 6 0 0 0 
+9 0 0 3 0 0 0 6 5 
+0 6 5 0 2 0 4 8 0 
+7 4 0 0 0 5 0 0 3 
+0 0 0 2 0 0 0 0 0 
+8 0 0 0 7 0 1 0 0 
+0 0 1 9 0 8 0 7 0 
